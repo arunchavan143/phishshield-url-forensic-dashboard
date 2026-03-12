@@ -20,7 +20,7 @@ The tool mimics workflows used by professional threat intelligence platforms and
 
 ## Dashboard Preview
 
-![Dashboard](screenshots/Screenshot (269).png)
+![Dashboard](screenshots%20dashboard)
 
 ---
 
